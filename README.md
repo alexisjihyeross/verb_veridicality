@@ -1,7 +1,7 @@
 # verb_veridicality
 Veridicality Assessment in Verb-Complement Constructions for NLI Systems
 
-The file verb_veridicality_evaluation.tsv contains the dataset introduced in our paper, How well do NLI models capture verb veridicality?
+The file verb_veridicality_evaluation.tsv contains the dataset introduced in our paper, [How well do NLI models capture verb veridicality?](https://www.aclweb.org/anthology/D19-1228.pdf)
 
 The fields in this file are:
 - ``index``: Index
